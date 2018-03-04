@@ -1,0 +1,22 @@
+{
+  "name": "command-line-args",
+  "version": "1.0.0",
+  "description": "Create a JavaScript file to act as a Node.js program named args.js. This program should accept at least one number as a command-line argument. The arguments should be summed up into a single value.",
+  "main": "args.js",
+  "bin": {
+    "args": "./args.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonAllenGreen/node-command-line-args.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonAllenGreen/node-command-line-args/issues"
+  },
+  "homepage": "https://github.com/BrandonAllenGreen/node-command-line-args#readme"
+}
